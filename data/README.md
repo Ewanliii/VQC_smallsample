@@ -1,6 +1,6 @@
 # Data Description
 
-
+- `raw/`: original dataset (not publicly available)
 The raw dataset used in this study cannot be redistributed due to license restrictions.
 
 Dataset source:
